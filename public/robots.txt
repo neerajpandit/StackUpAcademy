@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
  
 # Sitemaps
-Sitemap: https://www.brijinnotech.com/sitemap.xml
+Sitemap: https://www.stackupacademy.in/sitemap.xml
